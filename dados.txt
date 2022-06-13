@@ -1,0 +1,58 @@
+PCVA UNID VINCULADA PF EMPREENDIMENTO COM FINANCIAMENTO PJ - (3048)
+
+Valor do imóvel: R$ 200.000,00
+Prazo Máximo: 360 meses
+Sistema de Amortização: PRICE FGTS
+Cota máx. financiamento: 80%
+Valor de entrada: R$ 40.000,00
+Entrada Atualizada: Nao
+Prazo: 360 meses
+Valor de Financiamento + Despesa Cartorária : R$ 160.000,00 (Despesa Cartorária: R$ 0,00)
+Apólice de Seguro: 68650
+Incorporar Tarifas no Financiamento
+Sim
+Não
+
+ALTERAR PRAZO/ENTRADA
+ALTERAR DESPESA CARTORÁRIA
+
+
+Primeira Prestação Juros Nominais Juros Efetivos
+CET - PLANILHA
+
+R$ 1.216,96 7,6600% 7,9348%
+
+Taxas a Vista
+Seguro à vista R$ 55,64
+Tarifas R$ 0,00
+IOF R$ 0,00
+TOTAL R$ 55,64
+Componentes da prestação
+Amortização + Juros R$ 1.136,32
+Seguro DFI R$ 15,80
+Seguro MIP R$ 39,84
+Total Seguros R$ 55,64
+Taxa de administração R$ 25,00
+Taxa de risco de crédito R$ 0,00
+Taxa operacional mensal R$ 0,00
+TOTAL R$ 1.216,96
+
+Os resultados obtidos representam apenas uma simulação e não valem como proposta, pois estão sujeitos a alterações de acordo com a apuração da capacidade de pagamento e a aprovação da análise de crédito a ser efetuada pela CAIXA. Poderá haver alterações das taxas, dos prazos e das demais condições, sem aviso prévio. A contratação está condicionada à disponibilidade de recursos para sua região e ao atendimento das exigências do programa.
+RESUMO
+Origem De Recurso: FGTS - FUNDO DE GARANTIA POR TEMPO DE SERVICO
+Tipo De Pessoa: Fisica
+Categoria De Pessoa: NAO EMPREGADO CAIXA
+Tipo De Financiamento: RESIDENCIAL URBANO
+Categoria De Imóvel: CONSTRUCAO/AQ TER CONST - IM. PLANTA E COLETIVAS
+Cidade: Rio De Janeiro - RJ
+Valor Do Imóvel:R$ 200.000,00
+Prazo De Obra: 36 Meses
+Renda Familiar:R$ 6.000,00
+FGTS Há Mais De 3 Anos: Nao
+Proponente Já Beneficiado Com Subsídio Do FGTS Após 16/05/05: Nao
+Número De Participantes: 1
+Pactuação
+Nascimento
+100,00%
+17/01/1977
+Nova Simulação
